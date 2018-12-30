@@ -9,7 +9,7 @@ Since ELF Go project has a lot of options, we have a separate folding to manage 
 ## Option Spec Class (Python)
 - All arguments from command line are parsed by argparser in py_option_spec.py
 - class **PyOptionSpec** does the parsing;
-- Inheritted from class **OptionSpec** in C++;
+- Inherited from class **OptionSpec** in C++;
 - After doing the parsing, **parse()** will convert the parsed arguments to a Option Map class.
 
 ## Option Map Class (Python)

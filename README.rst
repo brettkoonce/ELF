@@ -35,7 +35,7 @@ Although we intend to release significant improvements over the next month, we'r
 License
 =======
 
-ELF is released under the BSD-style licence found in the ``LICENSE`` file.
+ELF is released under the BSD-style license found in the ``LICENSE`` file.
 
 Citing ELF
 ==========
